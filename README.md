@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @vishwanathkarate
-- 👀 I’m interested in Web Development
+- 👀 I’m interested in cloud Automation
 - 🌱 I’m currently learning Cloude computing (AWS) 
 - 💞️ I’m looking to collaborate on New start up's
 - 📫 How to reach me @mr.karate19
-- 😄 Pronouns: Ferrari
+- 😄 Pronouns:Mr.vishwa
 - ⚡ Fun fact: Better sence of humour
 
 <!---
